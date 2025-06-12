@@ -1,0 +1,19 @@
+Institution,Fund,Ticker,Index
+Fidelity,Fidelity ZERO Large Cap Index Fund,FNILX,S&P500
+Schwab,Schwab S&P 500 Index Fund,SWPPX,S&P500
+Vanguard,Vanguard Growth ETF,VUG,CRSP_US
+Dividend Aristocrats,SPDR S&P Dividend ETF,SDY,S&P_Dividends
+Vanguard,Vanguard Real Estate ETF,VNQ,Real_Estate
+Vanguard,Vanguard Russell 2000 ETF,VTWO,Russel2000
+Schwab,Schwab Emerging Markets Equity ETF,SCHE,FTSE
+Vanguard,Vanguard 500 Index Fund,VOO,S&P500
+iShares,MSCI Emerging Markets ETF,EEM,MSCI_Emerging
+Vanguard,Vanguard Total International Stock ETF,VXUS,Intl_Total
+iShares,iShares MSCI EAFE ETF,EFA,MSCI_EAFE
+Vanguard,Vanguard Total Bond Market ETF,BND,Bonds_US
+iShares,iShares U.S. Real Estate ETF,IYR,Real_Estate
+Invesco,Invesco QQQ Trust,QQQ,Nasdaq100
+iShares,iShares Russell 1000 Growth ETF,IWF,Russel1000
+SPDR,SPDR S&P Metals & Mining ETF,XME,Commodities
+SPDR,SPDR Bloomberg 1-3 Month T-Bill ETF,BIL,T_Bills
+Vanguard,Vanguard Health Care ETF,VHT,Sector_Health
